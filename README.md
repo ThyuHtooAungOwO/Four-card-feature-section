@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://thyuhtooaungowo.github.io/Four-card-feature-section/)
+- Live Site URL: [Four card feature section](https://thyuhtooaungowo.github.io/Four-card-feature-section/)
 
 ### Built with
 
